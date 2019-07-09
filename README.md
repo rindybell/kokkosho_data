@@ -28,7 +28,7 @@
 
 ### データ構築方法
 
-2017年5月頃に、下記URLからクローリングして構築しました。
+2017年5月頃に、下記URLからクローリングして構築しました。  
 [http://carinf.mlit.go.jp/jidosha/carinf/opn/index.html](http://carinf.mlit.go.jp/jidosha/carinf/opn/index.html)
 
 
@@ -42,7 +42,7 @@ gunzipコマンド等をご利用ください。
 ## 利用上の注意
 
 - 研究目的でのみ利用可能です。
-- 本データの利用において発生したあらゆる不利益について、
+- 本データの利用において発生したあらゆる不利益について、  
   国土交通省さま及び@rindybellは、責任を負いません。
 
 
